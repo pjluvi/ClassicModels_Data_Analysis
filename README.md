@@ -18,7 +18,7 @@ distributors across the globe.
 ## Database ER-diagram
 
 
-![image.png](attachment:image.png)
+![image](https://github.com/user-attachments/assets/8812f268-9d7a-4aeb-a551-0153e1f2428c)
 
 ## Detailed Data Analysis Report
 
