@@ -22,4 +22,9 @@ distributors across the globe.
 
 ## Detailed Data Analysis Report
 
-[ClassicModels]: https://github.com/pjluvi/ClassicModels_Data_Analysis/blob/main/ClassicModels_DA.ipynb "NoteBook"
+[ClassicModels](https://github.com/pjluvi/ClassicModels_Data_Analysis/blob/main/ClassicModels_DA.ipynb "NoteBook")
+[ClassicModels](https://github.com/pjluvi/ClassicModels_Data_Analysis/blob/main/ClassicModels_DA.pdf "PDF")
+
+## KPI Dashboard
+
+[![image](https://github.com/user-attachments/assets/b40e1786-4363-4eb8-b126-3bdcaa44c144)](https://app.powerbi.com/view?r=eyJrIjoiNDM5ZjgwY2ItYjllNC00Mzk4LTk0YTQtNTU5YWJmNTdiYTQzIiwidCI6ImQ2MzZhZjI0LTE3MDAtNGM5NS1iZTlmLTk1ZjY5MmVkN2Q4MiJ9&embedImagePlaceholder=true "Click to open dashboard")
